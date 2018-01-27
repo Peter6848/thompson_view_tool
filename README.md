@@ -19,8 +19,9 @@ Or install it yourself as:
     $ gem install thompson_view_tool
 
 ## Usage
-
-TODO: Write usage instructions here
+```ruby
+ThompsonViewTool::Renderer.copyright("Peter Thompson", "All rights reserved")
+```
 
 ## Development
 
